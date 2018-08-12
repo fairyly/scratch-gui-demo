@@ -1,0 +1,22 @@
+[
+  {
+    "id": "gui.gui.stageSizeLarge",
+    "description": "Button to change stage size to large",
+    "defaultMessage": "Stage Size Toggle - Large"
+  },
+  {
+    "id": "gui.gui.stageSizeSmall",
+    "description": "Button to change stage size to small",
+    "defaultMessage": "Stage Size Toggle - Small"
+  },
+  {
+    "id": "gui.gui.stageSizeFull",
+    "description": "Button to change stage size to full screen",
+    "defaultMessage": "Stage Size Toggle - Full Screen"
+  },
+  {
+    "id": "gui.gui.stageSizeUnFull",
+    "description": "Button to get out of full screen mode",
+    "defaultMessage": "Stage Size Toggle - Un-full screen"
+  }
+]

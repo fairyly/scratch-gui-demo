@@ -1,0 +1,7 @@
+[
+  {
+    "id": "gui.gui.variablePrompt",
+    "description": "Dropdown message for variable/list options",
+    "defaultMessage": "More Options"
+  }
+]

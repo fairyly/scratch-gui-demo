@@ -1,0 +1,17 @@
+[
+  {
+    "id": "gui.menuBar.share",
+    "description": "Label for project share button",
+    "defaultMessage": "Share"
+  },
+  {
+    "id": "gui.menuBar.seeCommunity",
+    "description": "Label for see community button",
+    "defaultMessage": "See Community"
+  },
+  {
+    "id": "gui.menuBar.giveFeedback",
+    "description": "Label for feedback form modal button",
+    "defaultMessage": "Give Feedback"
+  }
+]
